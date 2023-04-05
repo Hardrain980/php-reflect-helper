@@ -6,7 +6,8 @@
     "autoload": {
         "psr-4": {
             "Leo\\ReflectHelper\\": "src/"
-        }
+        },
+        "files": ["src/reflect_property.php", "src/reflect_method.php"]
     },
     "authors": [
         {
