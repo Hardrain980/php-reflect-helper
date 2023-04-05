@@ -1,0 +1,18 @@
+{
+    "name": "leo/reflect-helper",
+    "description": "Helper functions for reflecting class methods and attributes",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Leo\\ReflectHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo",
+            "email": "i@hardrain980.com"
+        }
+    ],
+    "require": {}
+}
